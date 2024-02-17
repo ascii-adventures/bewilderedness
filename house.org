@@ -1,0 +1,46 @@
+#+TITLE: House
+#+DATE: <2024-02-17 Sat>
+#+AUTHOR: Shane Mulligan
+#+KEYWORDS: ascii-adventures
+
+** Frames
+:PROPERTIES:
+:delay:    1
+:END:
+
+# This should animate when loaded
+# I will need to make a new mode to animate one of these
+
+#+BEGIN_SRC hypertext -n :async :results verbatim code :lang text
+
+  [[el:(aa/map)][map]]                         [[el:(message "House")][House]]
+
+                           ____
+  Three people            /    -----___
+   around a barrel       /----______   \
+                         |          ---|   [[el:(sps)][Split screen]]
+                         |             |
+                         |             |
+     g                   |    |--|     |
+   o | _                 ----_|  |_    |
+   |  |_| y                        -----
+          |
+
+#+END_SRC
+
+#+BEGIN_SRC hypertext -n :async :results verbatim code :lang text
+
+  [[el:(aa/map)][map]]                         [[el:(message "House")][House]]
+
+                           ____
+  Three people            /    -----___
+   around a barrel       /----______   \
+                         |          ---|   [[el:(sps)][Split screen]]
+                         |             |
+                         |             |
+     g                   |    |--|     |
+   o | _                 ----_|  |_    |
+   |  |_| y                        -----
+          |
+
+#+END_SRC
