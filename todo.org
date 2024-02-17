@@ -1,3 +1,7 @@
+* TODO ascii-adventures
+** Items
+- items that increase knapsack
+
 * With ascii-adventures, I should use it to journal about my own life
 
 * TODO Make a new github account to work on ascii-adventures, and for new projects
