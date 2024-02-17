@@ -1,0 +1,86 @@
+* Also, this style game would be epic - yeah, just start making it this way first
+https://www.dettus.net/dMagnetic/
+
+Though I do want it to be interactive with the mouse.
+
+** TODO Make a file format for describing the levels
+Make it super easy to build levels.
+
+** TODO Make it so
+
+** Name
+- ascii adventures
+  - I think this is a good name, actually
+  - Making it completely emacs-based will help people to learn emacs
+  - https://github.com/ascii-adventures
+
+** Design
+Yes, I want it to be an ASCII point-and click with a UI and inventory, etc.
+I should stick to emacs.
+If it's inside emacs then it will actually be quite nice to use.
+Try to stick to emacs widgets.
+Have it completely ASCII, would be wise.
+Very basic outline ascii drawings.
+
+OK, so simply start building it inside emacs.
+
+*** Slide design
+- any scale,
+- any perspective
+- point-and-click
+  - Figure out how to make point-and-click ascii in emacs
+  - Similar to AMOT
+  - Rapid development of these 'slides'
+- clean ascii, usually
+
+[[el:(etv (pps (org-parser-parse-buffer (current-buffer))))]]
+
+[[el:(etv (pps (org-parser-parse-file "/root/notes/ws/ascii-adventures/house.org")))]]
+
+They need to be extremely low-effort for rapid game design.
+I should be able to build the game *as* I play it, and inside emacs.
+Keep a game inventory inside emacs, etc.
+Just use emacs components.
+It should also span across org-files, etc.
+Use emacs features to produce the game.
+
+Make a 'hypertext mode'.
+
+Using this hypertext system, build a point and click adventure.
+
+I would use =sidecar= as the info panel for the inventory, etc.
+
+https://dantorop.info/project/emacs-animation/
+
+**** TODO Actually use org-mode to store the slides
+e:/root/notes/ws/ascii-adventures/house.org
+
+Anything clickable should simply be highlighted.
+Therefore, I should probably use 'masks' to generate clickable text.
+Alternatively, I can use buttons.
+Also, I want animations.
+
+To keep it simple, I should make 1 second per frame, and just doing a rolling rotation of frames.
+Then it's possible to click on things at the 1 second interval.
+This should be adjustable, obviously.
+
+e:/root/notes/ws/ascii-adventures/map.org
+
+*** Eventually, I could include other types of gameplay - all 2D ascii though
+- Such as moving a 2d character
+
+** text adventure games
+*** Secret of monkey island has a cool interface
+Point and click is cool, but combining point and click with text, and an inventory, etc.
+
+*** Magnetic scrolls wonderland has a cool UI
+
+https://www.youtube.com/watch?v=MPcL_eScS6I&ab_channel=GAMESPUB
+
+*** A Mess 'O Trouble / Ray's Maze
+This has a cool system.
+- Clicking the UI combined with text.
+
+** I really don't want to step into AI fiction though
+I will continue to actively avoid it, I think.
+I have cold feet towards that stuff.
