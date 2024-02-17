@@ -11,6 +11,10 @@ Make it super easy to build levels.
 ** TODO Make it so
 
 ** Details
+:PROPERTIES:
+:GAME_TITLE: Ascii Adventures
+:END:
+
 - ascii adventures
   - I think this is a good name, actually
   - Making it completely emacs-based will help people to learn emacs
