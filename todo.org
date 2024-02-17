@@ -3,6 +3,10 @@
 * Also, this style game would be epic - yeah, just start making it this way first
 https://www.dettus.net/dMagnetic/
 
+e:/root/notes/ws/ascii-adventures/house.org
+e:/root/.emacs.d/host/pen.el/src/pen-ascii-adventures.el
+e:/root/.emacs.d/host/pen.el/src/pen-hypertext.el
+
 Though I do want it to be interactive with the mouse.
 
 ** TODO Make a file format for describing the levels
