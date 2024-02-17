@@ -94,7 +94,6 @@ I have cold feet towards that stuff.
 #+STARTUP: showblocks
 #+STARTUP: showeverything
 # local variables:
-# org-attach-directory: "./data"
 # org-id-method: uuid
 # eval: (org+-show-drawers)
 # end:
