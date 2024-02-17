@@ -1,5 +1,3 @@
-
-
 * Also, this style game would be epic - yeah, just start making it this way first
 https://www.dettus.net/dMagnetic/
 
@@ -90,3 +88,13 @@ This has a cool system.
 ** I really don't want to step into AI fiction though
 I will continue to actively avoid it, I think.
 I have cold feet towards that stuff.
+
+* Local variables
+#+OPTIONS: toc:nil
+#+STARTUP: showblocks
+#+STARTUP: showeverything
+# local variables:
+# org-attach-directory: "./data"
+# org-id-method: uuid
+# eval: (org+-show-drawers)
+# end:
