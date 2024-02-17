@@ -10,7 +10,7 @@ Make it super easy to build levels.
 
 ** TODO Make it so
 
-** Name
+** Details
 - ascii adventures
   - I think this is a good name, actually
   - Making it completely emacs-based will help people to learn emacs
