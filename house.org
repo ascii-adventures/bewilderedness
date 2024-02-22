@@ -14,9 +14,9 @@
 #+BEGIN_SRC hypertext -n :async :results verbatim code :lang text
 
   [[el:(aa/map)][map]]                         [[el:(message "House")][House]]
-
-                           ____
-  Three people            /    -----___
+                                     _
+                           ____     | |
+  Three people            /    -----|_|
    around a barrel       /----______   \
                          |          ---|   [[el:(sps)][Split screen]]
                          |             |
@@ -31,9 +31,9 @@
 #+BEGIN_SRC hypertext -n :async :results verbatim code :lang text
 
   [[el:(aa/map)][map]]                         [[el:(message "House")][House]]
-
-                           ____
-  Three people            /    -----___
+                                     #
+                           ____     | |
+  Three people            /    -----|_|
    around a barrel       /----______   \
                          |          ---|   [[el:(sps)][Split screen]]
                          |             |
@@ -44,3 +44,38 @@
           |
 
 #+END_SRC
+
+#+BEGIN_SRC hypertext -n :async :results verbatim code :lang text
+
+  [[el:(aa/map)][map]]                         [[el:(message "House")][House]]   #
+                                     _
+                           ____     | |
+  Three people            /    -----|_|
+   around a barrel       /----______   \
+                         |          ---|   [[el:(sps)][Split screen]]
+                         |             |
+                         |             |
+     g                   |    |--|     |
+   o | _                 ----_|  |_    |
+   |  |_| y                        -----
+          |
+
+#+END_SRC
+
+#+BEGIN_SRC hypertext -n :async :results verbatim code :lang text
+                                        #
+  [[el:(aa/map)][map]]                         [[el:(message "House")][House]]
+                                     _
+                           ____     | |
+  Three people            /    -----|_|
+   around a barrel       /----______   \
+                         |          ---|   [[el:(sps)][Split screen]]
+                         |             |
+                         |             |
+     g                   |    |--|     |
+   o | _                 ----_|  |_    |
+   |  |_| y                        -----
+          |
+
+#+END_SRC
+
