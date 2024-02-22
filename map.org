@@ -8,7 +8,7 @@
 :delay:    1
 :END:
 
-#+BEGIN_SRC text -n :async :results verbatim code :lang text
+#+BEGIN_SRC hypertext -n :async :results verbatim code
 
              A map
 
@@ -19,15 +19,15 @@
         ...                            ...           ..
        ..                                             ..
        ..                                              .
-        .      ....                                   ..
-         ..   ..   ...........                       ..
+        .      ....                           _       ..
+         ..   ..   ...........               [[el:(aa/house)][|H|]]     ..
           ..  .              .                      ..
            ....            ...                 ......
  ~                        ..    ...............
                           .......
 #+END_SRC
 
-#+BEGIN_SRC text -n :async :results verbatim code :lang text
+#+BEGIN_SRC hypertext -n :async :results verbatim code
 
              A map
 
@@ -38,8 +38,8 @@
         ...                            ...           ..
        ..                                             ..
        ..                                              .
-        .      ....                                   ..
-         ..   ..   ...........                       ..
+        .      ....                           _       ..
+         ..   ..   ...........               [[el:(aa/house)][|H|]]     ..
           ..  .              .                      ..
            ....            ...                 ......
  ~                        ..    ...............

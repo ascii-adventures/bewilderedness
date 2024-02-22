@@ -11,7 +11,7 @@
 # This should animate when loaded
 # I will need to make a new mode to animate one of these
 
-#+BEGIN_SRC hypertext -n :async :results verbatim code :lang text
+#+BEGIN_SRC hypertext -n :async :results verbatim code
 
   [[el:(aa/map)][map]]                         [[el:(message "House")][House]]
                                      _
@@ -28,7 +28,7 @@
 
 #+END_SRC
 
-#+BEGIN_SRC hypertext -n :async :results verbatim code :lang text
+#+BEGIN_SRC hypertext -n :async :results verbatim code
 
   [[el:(aa/map)][map]]                         [[el:(message "House")][House]]
                                      #
@@ -45,7 +45,7 @@
 
 #+END_SRC
 
-#+BEGIN_SRC hypertext -n :async :results verbatim code :lang text
+#+BEGIN_SRC hypertext -n :async :results verbatim code
 
   [[el:(aa/map)][map]]                         [[el:(message "House")][House]]   #
                                      _
@@ -62,7 +62,7 @@
 
 #+END_SRC
 
-#+BEGIN_SRC hypertext -n :async :results verbatim code :lang text
+#+BEGIN_SRC hypertext -n :async :results verbatim code
                                         #
   [[el:(aa/map)][map]]                         [[el:(message "House")][House]]
                                      _
