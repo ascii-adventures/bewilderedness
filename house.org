@@ -39,7 +39,7 @@
                          |             |
                          |             |
      g                   |    |--|     |
-   o | [[el:(message "Fireball")][*]]*                 ----_|  |_    |
+   o | [[el:(message "Fireball")][*]]                 ----_|  |_    |
    |  |_| y                        -----
           |
 
