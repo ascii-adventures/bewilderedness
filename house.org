@@ -13,69 +13,51 @@
 
 #+BEGIN_SRC hypertext -n :async :results verbatim code
 
-  [[el:(aa/map)][map]]                         [[el:(message "House")][House]]
-                                     _
-                           ____     | |
-  Three people            /    -----|_|
-   around a barrel       /----______   \
-                         |          ---|   [[el:(sps)][Split screen]]
-                         |             |
-                         |             |
-     g                   |    |--|     |
-   o | _                 ----_|  |_    |
-   |  |_| y                        -----
-          |
-
+  [[el:(aa/map)][map]]
+                         _
+               ____     | |
+              /    -----|_|
+             /----______   \  [[el:(aa/go "courtyard")][Courtyard]]
+             | _        ---|
+         /*  |/_\   ___    |  **
+        /*/  |   | /___\   |  |*
+       /*/   |   | |_|_|   |  |*
+      /*/    -===|_____    |  |*
+      */       \ \vVvVv-----  |*
+                \____ \
+                    / /
 #+END_SRC
 
 #+BEGIN_SRC hypertext -n :async :results verbatim code
 
-  [[el:(aa/map)][map]]                         [[el:(message "House")][House]]
-                                     #
-                           ____     | |
-  Three people            /    -----|_|
-   around a barrel       /----______   \
-                         |          ---|   [[el:(sps)][Split screen]]
-                         |             |
-                         |             |
-     g                   |    |--|     |
-   o | [[el:(message "Fireball")][*]]                 ----_|  |_    |
-   |  |_| y                        -----
-          |
-
+  [[el:(aa/map)][map]]
+                         #
+               ____     | |
+              /    -----|_|
+             /----______   \  [[el:(aa/go "courtyard")][Courtyard]]
+             | _        ---|
+         /*  |/_\   ___    |  **
+        /*/  |   | /___\   |  |*
+       /*/   |   | |_|_|   |  |*
+      /*/    -===|_____    |  |*
+      */       \ \vVvVv-----  |*
+                \____ \
+                    / /
 #+END_SRC
 
 #+BEGIN_SRC hypertext -n :async :results verbatim code
-
-  [[el:(aa/map)][map]]                         [[el:(message "House")][House]]   #
-                                     _
-                           ____     | |
-  Three people            /    -----|_|
-   around a barrel       /----______   \
-                         |          ---|   [[el:(sps)][Split screen]]
-                         |             |
-                         |             |
-     g                   |    |--|     |
-   o | _                 ----_|  |_    |
-   |  |_| y                        -----
-          |
-
+                           #
+  [[el:(aa/map)][map]]
+                         _
+               ____     | |
+              /    -----|_|
+             /----______   \  [[el:(aa/go "courtyard")][Courtyard]]
+             | _        ---|
+         /*  |/_\   ___    |  **
+        /*/  |   | /___\   |  |*
+       /*/   |   | |_|_|   |  |*
+      /*/    -===|_____    |  |*
+      */       \ \vVvVv-----  |*
+                \____ \
+                    / /
 #+END_SRC
-
-#+BEGIN_SRC hypertext -n :async :results verbatim code
-                                        #
-  [[el:(aa/map)][map]]                         [[el:(message "House")][House]]
-                                     _
-                           ____     | |
-  Three people            /    -----|_|
-   around a barrel       /----______   \
-                         |          ---|   [[el:(sps)][Split screen]]
-                         |             |
-                         |             |
-     g                   |    |--|     |
-   o | _                 ----_|  |_    |
-   |  |_| y                        -----
-          |
-
-#+END_SRC
-

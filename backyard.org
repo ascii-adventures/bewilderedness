@@ -1,0 +1,39 @@
+#+TITLE: Backyard
+#+DATE: <2024-03-09 Sat>
+#+AUTHOR: Shane Mulligan
+#+KEYWORDS: ascii-adventures
+
+** Frames
+:PROPERTIES:
+:delay:    1
+:END:
+
+#+BEGIN_SRC hypertext -n :async :results verbatim code
+  
+  
+   +-------------------------+
+   |                         |
+   |                         |      +--------------------+
+   |                         |      |                    |
+   |                         |      |                    |
+   |                         |      |                    |
+   |                         |      |                    |
+   |                         |      |                    |
+   |                         |      |                    |
+   |                         |      |                    |
+   |       Potates           |      |      Potatos       |
+   |                         |      |                    |
+   |                         |      |                    |
+   |                         |      |                    |
+   |                         |      |                    |
+   |                         |      |                    |
+   |                         |      |                    |                   [[el:(aa/go "greenhouse")][Greenhouse]] ->
+   |                         |      |                    |
+   |                         |      |                    |
+   |                         |      |                    |
+   |              Mint       |      |            Mint    |        [[el:(aa/go "courtyard")][Courtyard]]
+   |                         |      |                    |          |
+   |                         |      +--------------------+          |
+   +-------------------------+                                     \|/
+
+#+END_SRC

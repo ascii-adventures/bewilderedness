@@ -1,0 +1,39 @@
+#+TITLE: Courtyard
+#+DATE: <2024-03-09 Sat>
+#+AUTHOR: Shane Mulligan
+#+KEYWORDS: ascii-adventures
+
+** Frames
+:PROPERTIES:
+:delay:    1
+:END:
+
+#+BEGIN_SRC hypertext -n :async :results verbatim code
+
+   +---+                    /|\
+   |   | Compost             |
+  .+---+  .                  |                           Bananafruit
+   .  ......  .           [[el:(aa/go "backyard")][backyard]]
+   .. ...... ..
+   ..  .......                       +--------+
+   .....  ....                       |        |
+  ... ..  ....                       |   @    |
+ ...  ....   .                       |        |
+ ... .....                           |     @  |
+    ..  ....                         |  @     |
+   ... .. ..                         |        |
+  . . ..  /\                         |Rosebush|
+       ...== Birdhouse               |     @  |
+   ..                                |        |
+                                     |  @     |
+                                     |    @   |
+                                     |        |
+                                     +--------+
+
+
+
+                           [[el:(aa/go "house")][house]]
+                             |
+                             |
+                            \|/
+#+END_SRC
