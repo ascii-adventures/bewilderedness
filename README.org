@@ -4,6 +4,10 @@
 
 * With ascii-adventures, I should use it to journal about my own life
 
+- Hmmm. It might be a good way to manage the garden.
+
+https://asciinema.org/a/HKdFlXERT0z6foWIsPhYCKbzh
+
 * TODO Make a new github account to work on ascii-adventures, and for new projects
 
 * Also, this style game would be epic - yeah, just start making it this way first
