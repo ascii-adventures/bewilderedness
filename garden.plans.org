@@ -1,0 +1,39 @@
+#+TITLE: Garden plans
+#+DATE: <2024-03-09 Sat>
+#+AUTHOR: Shane Mulligan
+#+KEYWORDS: ascii-adventures
+
+** Frames
+:PROPERTIES:
+:delay:    1
+:END:
+
+#+BEGIN_SRC hypertext -n :async :results verbatim code
+<- back to [[el:(aa/go "garden")][Garden]]
+
+   +-------------------------+
+   |                         |
+   |  Silverbeet             |      +--------------------+
+   |  Potatos                |      |                    |
+   |                         |      |                    |
+   |                         |      |                    |
+   |                         |      |                    |
+   |                         |      |                    |
+   |                         |      |                    |
+   |                         |      |                    |
+   |                         |      |      Potatos       |
+   |                         |      |                    |
+   |                         |      |                    |
+   |                         |      |                    |
+   |                         |      |                    |
+   |                         |      |                    |
+   |                         |      |                    |                   [[el:(aa/go "greenhouse.plans")][Greenhouse plans]] ->
+   |                         |      |                    |
+   |                         |      |                    |
+   |                         |      |                    |
+   |                         |      |            Mint    |
+   |                         |      |                    |
+   |                         |      +--------------------+
+   +-------------------------+
+
+#+END_SRC

@@ -1,4 +1,4 @@
-#+TITLE: Greenhouse
+#+TITLE: Greenhouse plans
 #+DATE: <2024-03-09 Sat>
 #+AUTHOR: Shane Mulligan
 #+KEYWORDS: ascii-adventures
@@ -9,9 +9,9 @@
 :END:
 
 #+BEGIN_SRC hypertext -n :async :results verbatim code
-
+<- back to [[el:(aa/go "greenhouse")][Greenhouse]]
    +-----------------------------------------------------+
-   |                                                     | ( [[el:(aa/go "greenhouse.plans")][Greenhouse plans]] )
+   |                                                     |
    |  +--------------+   +------------+   +-----------+  |
    |  |              |   | Tomatos    |   |           |  |
    |  |  Lemon tree  |   |            |   |           |  |
@@ -36,7 +36,7 @@
    +----------------+--------DOOR-------+----------------+
                     +-------------------+
 
-                          [[el:(aa/go "garden")][garden]]
+                          [[el:(aa/go "garden.plans")][garden plans]]
                             |
                             |
                            \|/

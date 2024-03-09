@@ -13,7 +13,7 @@
    +---+                    /|\
    |   | Compost             |
   .+---+  .                  |                           Bananafruit
-   .  ......  .           [[el:(aa/go "backyard")][backyard]]
+   .  ......  .           [[el:(aa/go "garden")][garden]]
    .. ...... ..
    ..  .......                       +--------+
    .....  ....                       |        |

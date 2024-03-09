@@ -1,4 +1,4 @@
-#+TITLE: Backyard
+#+TITLE: Garden
 #+DATE: <2024-03-09 Sat>
 #+AUTHOR: Shane Mulligan
 #+KEYWORDS: ascii-adventures
@@ -9,13 +9,13 @@
 :END:
 
 #+BEGIN_SRC hypertext -n :async :results verbatim code
-  
-  
+
+
    +-------------------------+
    |                         |
    |                         |      +--------------------+
    |                         |      |                    |
-   |                         |      |                    |
+   |                         |      |                    |  ( [[el:(aa/go "garden.plans")][Garden plans]] )
    |                         |      |                    |
    |                         |      |                    |
    |                         |      |                    |
