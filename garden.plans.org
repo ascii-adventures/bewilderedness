@@ -9,31 +9,31 @@
 :END:
 
 #+BEGIN_SRC hypertext -n :async :results verbatim code
-<- back to [[el:(aa/go "garden")][Garden]]
+  <- back to [[el:(aa/go "garden")][Garden]]
 
-   +-------------------------+
-   |                         |
-   |  Silverbeet             |      +--------------------+
-   |  Potatos                |      |                    |
-   |                         |      |                    |
-   |                         |      |                    |
-   |                         |      |                    |
-   |                         |      |                    |
-   |                         |      |                    |
-   |                         |      |                    |
-   |                         |      |      Potatos       |
-   |                         |      |                    |
-   |                         |      |                    |
-   |                         |      |                    |
-   |                         |      |                    |
-   |                         |      |                    |
-   |                         |      |                    |                   [[el:(aa/go "greenhouse.plans")][Greenhouse plans]] ->
-   |                         |      |                    |
-   |                         |      |                    |
-   |                         |      |                    |
-   |                         |      |            Mint    |
-   |                         |      |                    |
-   |                         |      +--------------------+
-   +-------------------------+
+     +-------------------------+
+     |                         |
+     |  Silverbeet             |      +--------------------+
+     |  Potatos                |      |                    |
+     |                         |      |                    |
+     |                         |      |                    |
+     |                         |      |                    |
+     |                         |      |                    |
+     |                         |      |                    |
+     |                         |      |                    |
+     |                         |      |      Potatos       |
+     |                         |      |                    |
+     |                         |      |      [[el:(aa/go "greenhouse.plans")][Greenhouse plans]] ->              |
+     |                         |      |                    |
+     |                         |      |                    |
+     |                         |      |                    |
+     |                         |      |                    |    
+     |                         |      |                    |
+     |                         |      |                    |
+     |                         |      |                    |
+     |                         |      |            Mint    |
+     |                         |      |                    |
+     |                         |      +--------------------+
+     +-------------------------+
 
 #+END_SRC
