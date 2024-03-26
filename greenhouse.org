@@ -3,6 +3,11 @@
 #+AUTHOR: Shane Mulligan
 #+KEYWORDS: ascii-adventures
 
+** Plans
+- Add:
+  - sage
+  - basil
+
 ** Frames
 :PROPERTIES:
 :delay:    1
